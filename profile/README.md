@@ -1,4 +1,4 @@
-# 🦁 Cub Code
+# 🦁 Welcome to Cub Code
 
 ### **Say it. Build it. Ship it.**
 
